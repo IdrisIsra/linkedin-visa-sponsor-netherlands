@@ -2,5 +2,11 @@
   "manifest_version": 3,
   "name": "Linkedin VISA sponsors Netherlands",
   "version": "1.0",
-  "description": "Checks to see if a company is registered in the Public Register Regular Labour and Highly Skilled Migrants in the Netherlands."
+  "description": "Checks to see if a company is registered in the Public Register Regular Labour and Highly Skilled Migrants in the Netherlands.",
+  "icons": {
+    "16": "images/icon16.png",
+    "32": "images/icon32.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  }
 }
