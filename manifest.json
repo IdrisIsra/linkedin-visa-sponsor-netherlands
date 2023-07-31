@@ -1,0 +1,6 @@
+{
+  "manifest_version": 3,
+  "name": "Linkedin VISA sponsors Netherlands",
+  "version": "1.0",
+  "description": "Checks to see if a company is registered in the Public Register Regular Labour and Highly Skilled Migrants in the Netherlands."
+}
